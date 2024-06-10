@@ -1,0 +1,24 @@
+.space{
+font-size: 25px; 
+color:white;
+font-weight: 6;
+text-decoration:underline ;
+}
+.intro{
+margin-bottom: 60px;    
+font-size: 30px;
+}
+body{ background-image: url("Screenshot\ 2024-05-13\ 150405.png");
+}
+.title{
+font-size: 60px;   
+color:white; 
+font:weight 16
+}
+
+.back{
+font-size: 15px;
+color:rgb(2, 246, 234); 
+font-weight: 3;
+text-decoration: underline;
+}
